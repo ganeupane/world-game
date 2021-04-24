@@ -1,0 +1,21 @@
+﻿id,country,c1,c2,c3,story,nav,win ,lose,traveller,aircraft
+1,SPACE,7,4,13,"You are revolving around the space satation, searching for the country to land.",Press 1 to go to NEPAL and 2 to go to INDIA and 3 to go to EGYPT,0,0,0,1
+2,CHINA,1,6,19,Your are in country of having highest population.,Press 1 to go back to space and 2 to escape to RUSSIA and 3 to go to FINLAND,0,0,0,0
+3,CANADA,8,7,18,Your came to very cold region of CANADA. ,Press 1 to go to sunny country DUBAI and 2 to NEPAL and 3 to go to UK,0,0,0,0
+4,INDIA,1,2,20,Welcome to India. Choose your options,Press 1 to go back to space and 2 to expore more  and move to CHINA and 3 to go SWITZERLAND,0,0,0,0
+5,USA,3,16,8,You came to North America. Choose your options.,Press 1 to go another North American country CANADA or 2 to the European country GERMANY and 3 to go to DUBAI,0,0,0,1
+6,RUSSIA,15,18,9,You landed in the largest country in the world.,Press 1 to go to SPAIN  and 2 to go UK and 3 to go to THILAND,0,0,0,0
+7,NEPAL,,,,You Choose the perfect place to come and won the game,,1,0,1,0
+8,DUBAI,19,12,17,Your found the country amazing with the sun.,Press 1 to go again to cold place FINLAND  2 to go IRAQ and 3 to go to AUSTRALIA,0,0,0,0
+9,THILAND,20,17,2,You are at cental Europe. After completing your trip,Press 1 to go to SWITZERLAND AND 2 to go to AUSTRALIA and 3 to go to CHINA,0,0,0,1
+10,CAMEROON,14,5,18,Now you came to west central Africa.,Press 1 to go to FRANCE and 2 to go to USA and 3 to go to UK,0,0,1,0
+11,SOUTH AFRICA,13,4,4,Welcome to southern part of the world.,Press 1 to go EGYPT and 2 to go to INDIA and 3 to go to INDIA,0,0,0,0
+12,IRAQ,,,,You chose the wrong destination. You are trapped there and lose the game,,0,1,0,0
+13,EGYPT,2,7,14,Welcome to northern Africa,Press 1 to go to CHINA and 2 to go to NEPAL and 3 to go to FRANCE,0,0,1,1
+14,FRANCE,3,8,16,Welcome to country of Eiffel Tower,Press 1 to go to CANADA and 2 to go to DUBAI  and 3 to go to Germany,0,0,0,0
+15,SPAIN,3,10,6,You are at the extreme southwest of Europe. ,Press 1 to go nearest country CANADA and 2 to african country CAMEROON and 3 to go to RUSSIA,0,0,0,0
+16,GERMANY,14,19,20,Welcome to Germany,Press 1 to go to FRANCE and 2 to go to FINLAND and 3 to go to SWITZERLAND,0,0,1,1
+17,AUSTRALIA,7,12,16,Your are welcome to country of Kangaroo,Press 1 to go NEPAL and 2 to go IRAQ and 3 to go to GERMANY,0,0,0,1
+18,UK,7,3,12,Welcome to whole island of Great Britain,Press 1 to go to NEPAL and 2 to go to CANADA and 3 to go to IRAQ,0,0,0,0
+19,FINLAND,9,15,7,You are welcome to the northern part of the world,Press 1 to go to THILAND and 2 to go to European county SPAIN and 3 to go to NEPAL,0,0,1,0
+20,SWITZERLAND,7,11,1,Welcome to the beautiful country of SWITZERLAND,Press 1 to go to NEPAL and 2 to go SOUTH AFRICA  and 3 to go back to space,0,0,0,0
